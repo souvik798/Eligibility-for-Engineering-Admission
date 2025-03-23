@@ -55,9 +55,7 @@ using System;
 
 ```
 ## Output:
-```
 ![](exp1.png)
-```
 ## Result:
 Thus the above C# program to check the eligibility of engineering admission is successfully executed
 
